@@ -35,6 +35,9 @@ To acccess this project on your local files, follow the following procedure
 1. run $chmod a+x start.sh
 1. then  run ./start.sh
 
+## View Site
+View [live](https://e-news5020.herokuapp.com/)
+
 
 ## Technologies used
 Python 3.8
