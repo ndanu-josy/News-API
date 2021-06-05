@@ -30,7 +30,7 @@ To acccess this project on your local files, follow the following procedure
 1. Get an api key from https://newsapi.org/ 
 1. Create a start.sh file and store your key there: i.e
     export NEWS_API_KEY='<Your-Api-Key>'
-    python3.6 manage.py server
+    python3.8 manage.py server
 
 1. run $chmod a+x start.sh
 1. then  run ./start.sh
