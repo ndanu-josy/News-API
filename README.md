@@ -11,7 +11,7 @@ E-NEWS is a web appliction that displays a list of news sources from around the 
 
 ## Specifications
 | Behavior        | Input           | Outcome  |
-| ------------- |-------------| -----|
+| ------------- |-------------| ------------|
 |Display news source| Home page | A list of various news sources|
 | Viewing articles  | click view articles button| A list of articles from a specific source|
 | Read article      | CLick read more | Redirect to the original source| 
